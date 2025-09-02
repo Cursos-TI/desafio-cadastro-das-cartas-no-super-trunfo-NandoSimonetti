@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Desafio nivel Novato
 int main(){
     //Variaveis 1ª carta
     char estado;
